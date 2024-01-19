@@ -7,6 +7,12 @@
 
 <!-- PROJECT LOGO -->
 
+
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="assets/mit-logo.png" alt="Logo" width="180">
@@ -18,7 +24,9 @@
   <p align="center">
     This app is a simple app that uses the CloudDB component to store data in the cloud, and allows multiple users of the app to communicate over multiple devices.
     <br />
+    <br />
   </p>
+
 
 
 
@@ -26,7 +34,13 @@
 <!-- ABOUT THE PROJECT -->
 ## Screenshot of the Project
 
+
+
+
+
 ![Product Name Screen Shot][product-screenshot]
+
+
 
 
 
@@ -35,6 +49,8 @@
 
 
 ## Built With
+
+
 
 <div align="left">
    - <img src="assets/mit-logo.png" alt="Logo" width="180">
